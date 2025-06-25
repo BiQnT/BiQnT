@@ -33,6 +33,21 @@
 
 ---
 
+<!--award& activity -->
+
+### 💼 Ativities
+- Undergradute Intern at “Foundations of Programming & Computing(FPC) Lab” (2025.6.9~)
+- Postech representative band “BREMEN” (2024.3~)
+
+
+### 🏆 Awards
+- 2025 TECHATHON SYNERGY 1st Prize
+- 2024 APGC-LAB IDEATHON 2nd Prize
+
+---
+
+
+
 <!-- 4) Languages / Tools (Shield.io badges) -->
 ### 🧰 Languages & Tools  
 ![C](https://img.shields.io/badge/C-272C34?style=for-the-badge&logo=c&logoColor=white)
@@ -50,7 +65,7 @@
 </p>
 -->
 
----
+
 
 <!-- 6) Contact -->
 ### 📬 Contact  
