@@ -38,17 +38,22 @@
 ---
 
 <!-- 5) GitHub Stats (선택) -->
+<!--
 ### 📊 Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=<!-- 수정: 네 닉네임 -->&show_icons=true&theme=tokyonight&hide_title=true" height="150"/>
+  
+<!--
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<!-- 수정 -->&layout=compact&theme=tokyonight" height="150"/>
+
+<!--
 </p>
 
 ---
-
+-->
 <!-- 6) Contact -->
 ### 📬 Contact
-<a href="mailto:<!-- adh2498@postech.ac.kr -->">
+<a href="mailto: adh2498@postech.ac.kr ">
   <img src="https://img.shields.io/badge/GMail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 <!--<a href="https://solved.ac/profile/<!-- 수정: solved.ac ID 있으면 -->">
