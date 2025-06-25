@@ -39,6 +39,7 @@
 - Undergradute Intern at “Foundations of Programming & Computing(FPC) Lab” (2025.6.9~)
 - Postech representative band “BREMEN” (2024.3~)
 
+---
 
 ### 🏆 Awards
 - 2025 TECHATHON SYNERGY 1st Prize
