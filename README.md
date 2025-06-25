@@ -71,6 +71,6 @@
 <summary>💡 Fun fact about me</summary>
 
 ```txt
-• Played keyboard in a college band  
+• Played guitar in a college representative band (Bremen)  
 • Obsessed with HiDPI monitor scaling  
-• Can fix your floating-point rounding bugs at 3 am
+
