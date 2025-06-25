@@ -55,7 +55,7 @@
 <!-- 6) Contact -->
 ### 📬 Contact  
 <a href="mailto:adh2498@postech.ac.kr">
-  <img src="https://img.shields.io/badge/GMail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white"/>
 </a>
 
 <!--
