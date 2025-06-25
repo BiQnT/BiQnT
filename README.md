@@ -8,9 +8,10 @@
 
 <!-- 프로필 아바타 (원하면 삭제) -->
 <!-- <p align="center"> -->
-<!--  <img src="https://avatars.githubusercontent.com/u/<!-- 수정: 네 GitHub ID -->?s=200" alt="avatar" width="120"/> -->
-</p> 
+<!--  <img src="https://avatars.githubusercontent.com/u/<!-- 수정: 네 GitHub ID -->?s=200" alt="avatar" width="120"/> --> -->
 
+
+</p> 
 --- 
 <!-- 2) About / Bio -->
 ### 👋 Hello!
