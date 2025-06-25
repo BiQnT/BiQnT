@@ -8,8 +8,8 @@
 
 <!-- 프로필 아바타 (원하면 삭제) -->
 <!-- <p align="center"> -->
-<!--  <img src="https://avatars.githubusercontent.com/u/<!-- 수정: 네 GitHub ID -->?s=200" alt="avatar" width="120"/>
-<!-- </p> 
+<!--  <img src="https://avatars.githubusercontent.com/u/<!-- 수정: 네 GitHub ID -->?s=200" alt="avatar" width="120"/> -->
+</p> 
 
 --- 
 <!-- 2) About / Bio -->
@@ -18,7 +18,7 @@
 - 🌱 Currently diving into **high-precision floating-point**  
 - 🏆 Dreaming of building verifiable numerical kernels for QC
 
-<!-- > **Motto:** *“0.1 보다 나은 0.001 을, 그리고 언젠간 1e-9 를.”*
+<!-- > **Motto:** *“0.1 보다 나은 0.001 을, 그리고 언젠간 1e-9 를.”* -->
 
 ---
 
