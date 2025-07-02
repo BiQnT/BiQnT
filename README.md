@@ -3,7 +3,10 @@
 <!-- ──────────────────────────────── -->
 
 <!-- 1) 대문 배너 / 닉네임 -->
-<h1 align="center" style="color:rgb(200, 1, 80);">BiQnT</h1>
+<p align="center">
+  <img src="https://via.placeholder.com/500x100/C80150/ffffff?text=BiQnT" alt="BiQnT">
+</p>
+<!--<h1 align="center" style="color:rgb(200, 1, 80);">BiQnT</h1>-->
 <h3 align="center"> • 🖥️ Numerical Accuracy • 🔬 Quantum Computing</h3>
 
 <!-- 프로필 아바타 (원하면 사용)
