@@ -29,6 +29,7 @@
 
 <!-- 3) Interests -->
 ### 🧭 Interests
+- ⭐ Verified Math Library
 - 🖥️ Numerical Computing & High Precision Arithmetic  
 - 🎸 Playing Electric Guitar!
 
