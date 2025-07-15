@@ -4,7 +4,7 @@
 
 <!-- 1) 대문 배너 / 닉네임 -->
 
-<h1 align="center">${\textsf{\color{rgb(200,1,80)}BiQnT}}$</h1>
+<h1 align="center">${\mathrm{\color{rgb(200,1,80)}BiQnT}}$</h1>
 <h3 align="center"> • 🖥️ Verified Math Library • 🔬 Quantum Computing</h3>
 
 <!-- 프로필 아바타 (원하면 사용)
