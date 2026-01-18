@@ -17,9 +17,9 @@
 ---
 
 ### 💼 Activities
-- **Vice President** of Student Council, POSTECH (2025 ~ )
-- Undergraduate Researcher at **CCBR** (Crypto & Blockchain Research Lab) (2025 ~ )
-  - *Researching Stablecoin Payment Systems optimization*
+- **Vice President** of Student Council, POSTECH (2026.1.1 ~ 2026.12.31)
+- Undergraduate Researcher at **CCBR** (Center for Cryptocurrency and Blockchain Research) (2025.12 ~ )
+  - *Researching Stablecoin Payment reputation system*
 - Postech representative band “BREMEN” (2024.3 ~ )
 
 ---
