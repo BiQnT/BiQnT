@@ -11,7 +11,7 @@
 
 ### 🧭 Interests
 - 🔗 Blockchain & Smart Contracts
-- 💸 A2A (Account-to-Account) Payment Systems
+- 💸 A2A (Agent-to-Agent) Payment Systems
 - 🎸 Playing Electric Guitar!
 
 ---
@@ -26,7 +26,7 @@
 
 ### 🏆 Awards
 - 2025 TECHATHON SYNERGY 1st Prize
-- 2024 APGC-LAB IDEATHON 2nd Prize
+- 2025 START-UP 48 1st Prize
 
 ---
 
